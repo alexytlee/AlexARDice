@@ -7,4 +7,4 @@
 Simple dice app using ARKit from Apple
 
 ## App Interface
-![Main page](https://github.com/alexytlee/AlexARDice/blob/master/Documentation/screen.png
+![Main page](https://github.com/alexytlee/AlexARDice/blob/master/Documentation/screen.png)
