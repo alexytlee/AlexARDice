@@ -1,5 +1,3 @@
-
-
 ![AlexARDice](https://github.com/alexytlee/AlexARDice/blob/master/Documentation/ardice.png)
 # AlexARDice
 
